@@ -1,73 +1,46 @@
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=samarose&label=Profile%20views&color=0e75b6&style=flat" alt="samarose" /> 
-</p>
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&color=FF69B4&lines=Hey%2C+I'm+samarose!+👋🏻;Web+Developer)](https://github.com/)
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm samarose</h1>
-<h3 align="center">A Passionate Web Developer</h3>
-
-<br/>
-
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
-
-- 💻 I'm a **Web Developer**
-
-- 🌱 I’m currently learning **C++ and Java**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, Python**
-
-- 🌎 Languages I speak: **Arabic, French, English**
-
-- 📚 Currently learning **Spanish**
+<div align="right">
+  <img src="https://github.com/user-attachments/assets/c4defa45-1003-49cb-bc16-a9b52b96d144" alt="MasterHead" style="width: 100%; max-width: 1000px; height: auto;" align="centre" />
+</div> 
 
 ---
 
-## 🛠 Skills
+## 🩷 About me:
+<div>
+  <img src="https://github.com/user-attachments/assets/fa24e52c-4953-4f1a-9087-d4e4fc5b7f17" alt="MasterHead" width=20% align="right"/>
+  
+  💻 I'm a **Web Developer** <br>
+  
+  🌐 I specialize in **HTML, CSS, JavaScript, and Python** <br>
+  
+  📚 Currently learning **C++ and Java** <br>
+  
+  🌍 I speak **Arabic, French, and English** <br>
+  
+  📖 Currently learning **Spanish** <br>
+  
+  ☁️ Passionate about **web development and building creative projects** <br>
+</div> 
 
-<p align="center">
+---
 
-![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-<br>
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
+## 🎧 Technologies and Tools:
+<p align="left">
+  <a>
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,java,git,github,vscode&theme=dark&perline=16" />
+  </a>
 </p>
 
 ---
 
-## 🧰 Tools I Use
+## 💭 Languages and Stats:
 
-<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=samarose&theme=buefy&hide_border=true&show_icons=true) 
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samarose&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-## 📊 GitHub Stats
-
-<table width="100%" align="center">
-<tr>
-<td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=samarose&show_icons=true&locale=en&theme=ambient_gradient"/>
-</td>
-<td>
-  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=samarose&theme=ambient_gradient"/>
-</td>
-</tr>
-</table>
-
-<br>
-
-<p align="center">
-⭐ Thank you for visiting my profile!
-</p>
+## 👀 Profile Visits
+[![](https://visitcount.itsvg.in/api?id=samarose&icon=7&color=10)](https://visitcount.itsvg.in)
